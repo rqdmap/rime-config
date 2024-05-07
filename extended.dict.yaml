@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: extended
+version: "2024.05.07"
+sort: by_weight
+use_preset_vocabulary: true     # true 或 false，选择是否导入预设词汇表【八股文】
+import_tables:
+  - dict/luna_pinyin
+  - dict/fcitx5
+  - dict/moegirl
+

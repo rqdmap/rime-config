@@ -1,0 +1,7 @@
+build/
+installation.yaml
+luna_pinyin.userdb/
+sync/
+user.yaml
+dict/
+extended.userdb/
